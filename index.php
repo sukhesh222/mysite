@@ -1,18 +1,4 @@
-<?php
-session_start();	
-	
-  include_once 'functions.php';	
-    //echo $_SESSION['username'];
-  if(isset($_SESSION['username']))
-      {
-      //echo $_SESSION['username'];
-      
-  }else{ echo '<META HTTP-EQUIV="Refresh" Content="0; URL=adminsignin.php">';  
-      }
 
-  
-  
-?>
 <!doctype html>
 <html lang="en">
  <head>
@@ -22,11 +8,7 @@ session_start();
   <meta name="Keywords" content="">
   <meta name="Description" content="">
   <title>Checkupkart</title>
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-   <link rel="stylesheet" type="text/css" href="css/sliderstyle.css">
-    <link rel="stylesheet" type="text/css" href="css/animation.css">
-	 <link rel="stylesheet" type="text/css" href="css/reset.css">
-	  <link rel="stylesheet" type="text/css" href="css/drop.css">
+asasasasas
 
 	<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
@@ -173,7 +155,7 @@ padding:10px;}
 
 <div id="recordFormDiv" >
 <div  id="record-tittle2">
-<p style="width:200px;">Admin Dashboard</p> 
+<p style="width:200px;">Admin Das</p> 
    
 </div>
     <br><br>
